@@ -10,7 +10,7 @@ namespace JurassicPark
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("T-Rex loves SEX");
+            Console.WriteLine("Ik ben Rex en ik hou van SEX");
         }
     }
 }
